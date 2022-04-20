@@ -1,4 +1,4 @@
-# Equalify the web!
+# Equalify
 
 **96.8% of homepages are inaccessible**, according to [WebAim](https://webaim.org/projects/million/).
 

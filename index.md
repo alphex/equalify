@@ -1,37 +1,49 @@
-## Welcome
+# Equalify the web!
 
-You can use the [editor on GitHub](https://github.com/bbertucc/equalify/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**96.8% of homepages are inaccessible**, according to [WebAim](https://webaim.org/projects/million/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+That statistic is unacceptable.
 
-### Markdown
+Everyone should have access to online information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How will Equalify increase accessibility?
 
-```markdown
-Syntax highlighted code block
+Equalify creates deep integrations with services that run your website. 
 
-# Header 1
-## Header 2
-### Header 3
+Imagine: You solve A11Y issues at their source - be that source the server or a CMS. 
 
-- Bulleted
-- List
+Equalify will become your WebOps hub, designed to solve any accessibility issue. 
 
-1. Numbered
-2. List
+<img width="1510" alt="Screen Shot 2022-04-13 at 1 20 11 PM" src="https://user-images.githubusercontent.com/46652/163245142-f9844463-ba06-466e-aac1-92e069d07994.png">
 
-**Bold** and _Italic_ and `Code` text
+## What does Equalify currently do?
 
-[Link](url) and ![Image](src)
-```
+The app currently scans pages for WCAG errors.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Equalify supports [Little Forrest](https://littleforest.co.uk/feature/web-accessibility/), a free WCAG 2.1 scan, and the popular [WAVE scan](https://wave.webaim.org/). 
 
-### Jekyll Themes
+After selecting an integration, import any site.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bbertucc/equalify/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The app imports pages from XML sitemaps, the WordPress API, and single URLs.
 
-### Support or Contact
+After all your pages are added, click "Scan" and Equalify reports WCAG errors as they are found.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The goal: **Equalify every website.**
+
+<img width="1336" alt="Screen Shot 2022-04-14 at 2 00 57 PM" src="https://user-images.githubusercontent.com/46652/163458795-b3d08005-0910-4f3d-b0a0-3aa5ea829a7c.png">
+
+## Try Equalify
+Equalify is still in its infancy.
+
+To test a pre-launch version, checkout Equalify's [releases](https://github.com/bbertucc/equalify/releases/).
+
+## Special Thanks
+A chaos wizard 🧙 and many brilliant brains help Equalify. Special shoutout to [Pantheon](https://pantheon.io/) and [Little Forrest](https://littleforest.co.uk/feature/web-accessibility/) for providing funding for Drupalcon tickets and other great resources that help this project grow. Yi, Kate, Bill, Dash, Sylvia, Anne, Doug, Matt, Nathan, and John- You are the braintrust behind any great idea. Brad- You push me to code better. & Grace- You are the 🔥 behind everything I do.
+
+This project is Open Source to inspire new collaborations.
+
+Together, **we can equalify the internet**.
+
+-[@bbertucc](https://github.com/bbertucc)
+
+PS: For more information on the notions behind Equalify, see my [Ethical Business Notion page](https://bbertucc.notion.site/Ethical-Business-7d8cb00d2e5f4558998450d6e38a61b6). 

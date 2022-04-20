@@ -4,6 +4,7 @@ body{
     height: 100vh;
 }
 #alert{
+    width: 95%;
     max-width: 520px;
     margin: 1em auto;
 }

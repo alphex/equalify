@@ -10,4 +10,14 @@ body{
 }
 .lead{
     max-width: 283px;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-weight: 900;
+}
+.btn{
+    font-weight: 500;
+    border-width: 2px;
 }

@@ -8,3 +8,6 @@ body{
     max-width: 400px;
     margin: 1em auto;
 }
+.lead{
+    max-width: 283px;
+}
